@@ -9,7 +9,7 @@
 
 > "Stride has been extremely helpful so far. It's made me so efficient — my work is easier, and I can move quickly yet thoroughly."
 >
-> — **Matthew M**, 20 April 2026
+> — **Matthew M, Aibuildrs**, 20 April 2026
 
 [Read more testimonials →](/consultancy/testimonials)
 

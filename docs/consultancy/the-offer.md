@@ -83,7 +83,7 @@ The engagement runs as three concrete stages that match the name of the offer �
 
 > "I'm glad you got it in front of me at the right time — before I started work. 😄"
 >
-> — **Matthew M**, 20 April 2026
+> — **Matthew M, Aibuildrs**, 20 April 2026
 
 ### Stage 1 — Install and setup (£2k, 2 days on-site or remote, £1k/day)
 
