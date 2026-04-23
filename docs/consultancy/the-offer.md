@@ -107,7 +107,7 @@ The workflow only becomes real when you are building alone. Mike books one day e
 
 Stages 1 and 2 together make up the **£5k initial engagement** (£2k + £3k). After week 3 you either stop there or move into Stage 3.
 
-### Stage 3 — Ongoing retainer (£1k/day as needed, optional; Stride itself complimentary)
+### Stage 3 — Ad-hoc support (£1k/day when needed, optional; Stride itself complimentary)
 
 Past the initial three weeks, support drops to what you actually need:
 

@@ -90,7 +90,7 @@ A four-part answer for the DPO — forward this section verbatim:
 
 *Pick one Claude plan, not both. **Max** is a personal subscription for solo users — no seat minimum, usage-heavy, starts at ~£80/month. **Team** is commercial, minimum 5 seats, training prohibition in contract — floor ~£80/year on Team standard annual billing. Linear is £0 on Free (up to 2 teams and 250 active issues); Basic is ~£77/user/year. Webventurer does not host any apps — they run on your infrastructure from day one.*
 
-Year two (if you continue past week 3) is your tool subscriptions plus ad-hoc Stage 3 retainer days at £1k/day as needed.
+Year two (if you continue past week 3) is your tool subscriptions plus ad-hoc Stage 3 support at £1k/day as needed.
 
 ## Procurement checklist
 
@@ -112,6 +112,6 @@ Four concrete paragraphs, grouped by the name of the offer.
 ### Then Stride
 
 - **(c) First three weeks of weekly support — £3k (1 day per week at £1k/day).** Mike returns one day a week for three weeks to catch anti-patterns early and reinforce habits while they are still forming. Three apps shipped by end of week 3. Bundled with (b) as the combined £5k initial engagement.
-- **(d) Ongoing retainer — £1k/day as needed, optional.** Past week 3, monthly check-ins drop to ad-hoc as you gain independence. [Stride](/consultancy/glossary#stride) itself remains complimentary throughout.
+- **(d) Ad-hoc support — £1k/day when needed, optional.** Past week 3, monthly check-ins drop to ad-hoc as you gain independence. [Stride](/consultancy/glossary#stride) itself remains complimentary throughout.
 
 **To book your 60-minute discovery call, email [mike@webventurer.com](mailto:mike@webventurer.com).**
