@@ -12,7 +12,11 @@ GitHub is a web-based home for source code. A **repo** (repository) is one proje
 
 ## Linear
 
-[Linear](https://linear.app) is an issue tracker. It replaced Jira for most modern software teams because it is faster, is fewer clicks away from the answer, has a better API, and is **MCP-friendly** — meaning AI agents can read and write Linear through a standard protocol. *MCP* stands for **Model Context Protocol**, Anthropic's standard for tools talking to Claude.
+[Linear](https://linear.app) is an issue tracker. It replaced Jira for most modern software teams because it is faster, is fewer clicks away from the answer, has a better API, and is **[MCP](#mcp)-friendly** — meaning AI agents can read and write Linear through a standard protocol.
+
+## MCP
+
+**Model Context Protocol** — Anthropic's open standard for how external tools and services expose themselves to AI agents. A tool bundles an MCP server, and Claude Code can then read, write, and act on that tool directly — e.g. Linear's MCP server lets Claude create cards, update statuses, and leave comments from the terminal, without screen-scraping or one-off integrations.
 
 ## Claude Code
 

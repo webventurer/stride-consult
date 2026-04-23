@@ -32,7 +32,7 @@ The first time it works end to end, the feeling lands: *"From a selfish professi
 
 ### Claude Code
 
-Claude Code is Anthropic's terminal-based coding agent. It reads and writes code across a whole repo, runs your tests, uses [MCP](/consultancy/glossary#linear) tools — Model Context Protocol, Anthropic's standard for letting external services like Linear talk to Claude — and executes shell commands under your permission. It is the engine that actually writes code.
+Claude Code is Anthropic's terminal-based coding agent. It reads and writes code across a whole repo, runs your tests, uses [MCP](/consultancy/glossary#mcp) tools — Model Context Protocol, Anthropic's standard for letting external services like Linear talk to Claude — and executes shell commands under your permission. It is the engine that actually writes code.
 
 Your code is yours, and under a [Claude Team plan](https://claude.com/pricing) your prompts are never used to train Claude — full privacy brief on the [procurement page](/consultancy/procurement).
 
@@ -52,7 +52,7 @@ Here's how Stride sits on top. `/linear:plan-work` turns a plain-English request
 
 > "You can telegraph to management what you're working on so they can visibly see all the issues you're working on."
 
-Stride reads and writes Linear automatically via [MCP](/consultancy/glossary#linear). No manual card shuffling. Because it's just a URL to share, you send one link to your line manager and they see everything.
+Stride reads and writes Linear automatically via [MCP](/consultancy/glossary#mcp). No manual card shuffling. Because it's just a URL to share, you send one link to your line manager and they see everything.
 
 ### Starter repos
 
@@ -90,7 +90,7 @@ The engagement runs as three concrete stages that match the name of the offer �
 Two days that install the tools, teach the primitives, and ship the first app end to end:
 
 - *Before day 1 (async, no charge).* Mac prerequisites done remotely or on site so day 1 starts productive — security hygiene (disk encryption, password manager, MFA on GitHub and Anthropic), corporate VPN, GitHub org access, Anthropic Claude Team seat, Linear workspace access.
-- *Day 1 — install and primitives.* Homebrew, Node.js, Python, git, the Claude Code CLI. Starter repo cloned (app-starter or python-template). Stride installed and MCP-connected (`linear check` confirms connectivity). Git basics (branches, commits, pull requests), [atomic commits](/consultancy/glossary#the-atomic-commit), [kanban](/reference/kanban) in Linear.
+- *Day 1 — install and primitives.* Homebrew, Node.js, Python, git, the Claude Code CLI. Starter repo cloned (app-starter or python-template). Stride installed and [MCP](/consultancy/glossary#mcp)-connected (`linear check` confirms connectivity). Git basics (branches, commits, pull requests), [atomic commits](/consultancy/glossary#the-atomic-commit), [kanban](/reference/kanban) in Linear.
 - *Day 2 — ship the `hello-world`.* Pick one Linear card from the discovery scope. `/linear:plan-work` drafts the card. `/linear:start` cuts the branch. `/commit` lands atomic commits. `/linear:finish` moves the card to Done. The dashboard is live in your environment.
 
 *Stage 1 deliverable: one real internal app running end to end by the close of day 2, in an environment InfoSec will approve.*
