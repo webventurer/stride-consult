@@ -36,4 +36,8 @@ And your work stays visible. Your teammates and line manager see the cards move 
 
 ---
 
-**To book your 60-minute discovery call, email [mike@webventurer.com](mailto:mike@webventurer.com).**
+## Start with a discovery call
+
+A 60-minute conversation, free. We walk through your actual data sources and map them to [Linear](/consultancy/glossary#linear) issues before any money is spent. Deliverable: a one-page scope you can take to your line manager.
+
+**Book it: email [mike@webventurer.com](mailto:mike@webventurer.com).**

@@ -56,18 +56,3 @@ A four-part answer for the DPO — forward this section verbatim:
 > 3. Private GitHub org provisioned (or approved alternative: self-hosted Gitea, GitLab CE, Bitbucket, Azure DevOps).
 > 4. Claude subscription procured — a **Claude Max** subscription for a solo user, or **5+ Claude Team seats** under corporate billing for a group.
 
-## Next steps
-
-Four concrete paragraphs, grouped by the name of the offer.
-
-### Step first
-
-- **(a) Discovery call — 60 minutes, free.** Walk through your actual data sources and map them to [Linear](/consultancy/glossary#linear) issues before any money is spent. Deliverable: a one-page scope you can take to your line manager. If you've already had the discovery call, treat this as the agreed scope summary.
-- **(b) Install and setup — £2k (2 days at £1k/day).** By the end of day two — with the async prerequisites in place (Mac, Claude Max or Team seat, GitHub org) — one real internal app is running in your environment. Your `hello-world`, end to end, through Linear. Everything else layers on this foundation. Billed on completion.
-
-### Then Stride
-
-- **(c) First three weeks of weekly support — £3k (1 day per week at £1k/day).** Mike returns one day a week for three weeks to catch anti-patterns early and reinforce habits while they are still forming. Three apps shipped by end of week 3. Bundled with (b) as the combined £5k initial engagement.
-- **(d) Ad-hoc support — £1k/day when needed, optional.** Past week 3, monthly check-ins drop to ad-hoc as you gain independence. [Stride](/consultancy/glossary#stride) itself remains complimentary throughout.
-
-**To book your 60-minute discovery call, email [mike@webventurer.com](mailto:mike@webventurer.com).**
