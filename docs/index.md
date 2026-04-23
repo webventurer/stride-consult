@@ -3,14 +3,14 @@ layout: home
 
 hero:
   name: stride consult
-  text: Build apps that go the distance
-  tagline: "Agents do the work.<br>The Kanban board keeps order.<br>You set the pace."
+  text: "AI built your app. Now what?"
+  tagline: "It works — mostly. But every change feels risky, and when something breaks, you can't see what happened. Stride is how non-developers ship internal apps they can actually read, fix, and trust."
   image:
     src: /kanban-board.svg
     alt: stride consult — cards flowing through a Kanban board
   actions:
     - theme: brand
-      text: Consultancy package
+      text: See how it works
       link: /consultancy/step-first-then-stride
     - theme: alt
       text: Feedback
