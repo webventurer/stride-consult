@@ -75,6 +75,19 @@
 
 .VPHero .tagline {
   margin-top: 20px !important;
+  font-size: 15px;
+}
+
+@media (min-width: 640px) {
+  .VPHero .tagline {
+    font-size: 17px;
+  }
+}
+
+@media (min-width: 960px) {
+  .VPHero .tagline {
+    font-size: 21px;
+  }
 }
 
 @media (min-width: 960px) and (max-width: 1199px) {
