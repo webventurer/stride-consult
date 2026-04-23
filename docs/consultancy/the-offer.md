@@ -16,9 +16,15 @@ This is **not** for someone who copy-pastes a bit of code from a web search and 
 
 Stride turns [vibe coders](/consultancy/glossary#vibe-coder) into [**agentic engineers**](/consultancy/glossary#agentic-engineer) who can trust what they are working on. See [Agentic engineering](/reference/agentic-engineering) for the full vibe-vs-agentic breakdown. The **workhorse** is [Claude Code](/consultancy/glossary#claude-code), Anthropic's terminal-based coding agent. The **shipping system** is [Stride](/consultancy/glossary#stride) — a thin wrapper around Claude Code that implements [kanban](/reference/kanban) on Linear.
 
-**The payback is concrete.** *"Your organisation currently pays your data vendor £2–3k every time you want a custom report. Your fourth internal dashboard pays back the entire £5k engagement."* The maths holds for any organisation that's paying custom-report fees to vendors every month.
+**The payback is concrete.** *"Your organisation currently pays your data vendor £2k every time you want a custom report. Your third app (e.g. an internal dashboard) pays back the entire £5k engagement."* The maths holds for any organisation that's paying custom-report fees to vendors every month.
 
-**The timeline is concrete too.** *"Week one after setup is complete: your first internal dashboard ships. Month one: three apps running, owned by you, visible to your team in Linear."*
+| Apps shipped | Vendor fees avoided | Engagement balance |
+|:---|---:|---:|
+| 1 | £2,000 | −£3,000 |
+| 2 | £4,000 | −£1,000 |
+| **3** | **£6,000** | **+£1,000** *(paid back)* |
+
+**The timeline is concrete too.** *"Week one after setup is complete: your first app (e.g. an internal dashboard) ships. Month one: three apps running, owned by you, visible to your team in Linear."*
 
 ## The moment it clicks
 
