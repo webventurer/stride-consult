@@ -37,11 +37,6 @@
 }
 
 @media (min-width: 960px) {
-  .VPHero .main {
-    width: 50% !important;
-    max-width: 50% !important;
-  }
-
   .VPHero .image-container {
     transform: none !important;
     display: flex !important;
@@ -54,6 +49,13 @@
     top: auto !important;
     left: auto !important;
     transform: none !important;
+  }
+}
+
+@media (min-width: 1200px) {
+  .VPHero .main {
+    width: 50% !important;
+    max-width: 50% !important;
   }
 }
 
