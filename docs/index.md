@@ -17,8 +17,8 @@ hero:
       link: /consultancy/feedback
 
 features:
-  - title: Apps that don't break in silence
-    details: Every change is visible and revertible. When something goes wrong, you can see exactly what changed — and roll it back without panic.
+  - title: Build apps on a digital board your team can see
+    details: Every card flows from idea to shipped, live on the board. Your teammates and line manager see where each app is, right now. No status reports, no hidden work.
   - title: Your first app ships in a week
     details: Two days on-site, three weeks of coaching. By month one you're shipping internal apps yourself — no more six-week vendor quotes for a report.
   - title: What you build stays yours
