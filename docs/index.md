@@ -17,10 +17,10 @@ hero:
       link: /consultancy/feedback
 
 features:
-  - title: Ship faster without chaos
-    details: AI agents write code — Stride keeps structure, so you don't end up with spaghetti commits and broken flows.
-  - title: Stay in flow from idea → deploy
-    details: Plan, build, and ship in one continuous system — no jumping between tools, tabs, or mental modes.
-  - title: Control the system, not the other way round
-    details: You define the pace, structure, and standards — agents execute inside your workflow.
+  - title: Apps that don't break in silence
+    details: Every change is visible and revertible. When something goes wrong, you can see exactly what changed — and roll it back without panic.
+  - title: Your first app ships in a week
+    details: Two days on-site, three weeks of coaching. By month one you're shipping internal apps yourself — no more six-week vendor quotes for a report.
+  - title: What you build stays yours
+    details: Your code, your accounts, your infrastructure. If you ever stop working with Stride, everything keeps running. No lock-in.
 ---
