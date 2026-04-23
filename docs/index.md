@@ -3,8 +3,8 @@ layout: home
 
 hero:
   name: stride consult
-  text: "AI built your app. Now what?"
-  tagline: "It works — mostly. But every change feels risky, and when something breaks, you can't see what happened. Stride is how non-developers ship internal apps they can actually read, fix, and trust."
+  text: "AI built your app... <br>now what?"
+  tagline: "It works — mostly. But something feels a bit off. Every change feels risky, and when something breaks, you can't see what happened. Stride is how non-developers ship apps they can actually read, fix, and trust."
   image:
     src: /kanban-board.svg
     alt: stride consult — cards flowing through a Kanban board
