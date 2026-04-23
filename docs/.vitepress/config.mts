@@ -9,7 +9,7 @@ export default defineConfig({
       { text: 'Consultancy', link: '/consultancy/step-first-then-stride' },
       { text: 'What is it?', link: '/consultancy/what-is-it' },
       { text: 'How much?', link: '/consultancy/how-much' },
-      { text: 'Testimonials', link: '/consultancy/testimonials' },
+      { text: 'Feedback', link: '/consultancy/feedback' },
     ],
     sidebar: [
       {
@@ -21,7 +21,7 @@ export default defineConfig({
           { text: 'Procurement and privacy', link: '/consultancy/procurement' },
           { text: 'About', link: '/consultancy/about' },
           { text: 'Glossary', link: '/consultancy/glossary' },
-          { text: 'Testimonials', link: '/consultancy/testimonials' },
+          { text: 'Feedback', link: '/consultancy/feedback' },
         ],
       },
       {

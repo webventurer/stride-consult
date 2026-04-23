@@ -13,8 +13,8 @@ hero:
       text: Consultancy package
       link: /consultancy/step-first-then-stride
     - theme: alt
-      text: Testimonials
-      link: /consultancy/testimonials
+      text: Feedback
+      link: /consultancy/feedback
 
 features:
   - title: Ship faster without chaos

@@ -13,7 +13,7 @@ Mike Mindel (Webventurer Ltd) sets up your laptop with **[Claude Code](/consulta
 >
 > — **Matthew M, Aibuildrs**, 20 April 2026
 
-[Read more testimonials →](/consultancy/testimonials)
+[Read more feedback →](/consultancy/feedback)
 
 ## You don't need to be a developer
 
@@ -32,7 +32,7 @@ And your work stays visible. Your teammates and line manager see the cards move 
 - **[Procurement and privacy →](/consultancy/procurement)** — what Anthropic does and doesn't do with your code, where the source lives, GDPR and leaver process. *Share this with your line manager, IT, InfoSec, and DPO.*
 - **[About →](/consultancy/about)** — Mike, Andy, and Webventurer.
 - **[Glossary →](/consultancy/glossary)** — kanban, Linear, Claude Code, atomic commits, and the other terms used across these pages.
-- **[Testimonials →](/consultancy/testimonials)** — what people using Stride are saying.
+- **[Feedback →](/consultancy/feedback)** — what people using Stride are saying.
 
 ---
 

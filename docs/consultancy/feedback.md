@@ -2,7 +2,7 @@
 outline: false
 ---
 
-# Testimonials
+# Feedback
 
 Early feedback from people using Stride.
 
