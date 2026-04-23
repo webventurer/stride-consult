@@ -9,7 +9,7 @@ outline: false
 Webventurer is a two-person consultancy run by Mike and Andy Mindel. Stride is open source; the consultancy package exists to help clients adopt it confidently, without turning Webventurer into a dependency.
 
 - **[Mike Mindel](https://www.linkedin.com/in/mikemindel/)** — builds apps, trains clients, runs the engagement day to day. Reach him at [mike@webventurer.com](mailto:mike@webventurer.com).
-- **[Andy Mindel](https://www.linkedin.com/in/andymindel/)** — co-founder and backup on every engagement, so the retainer is covered by two people, not one.
+- **[Andy Mindel](https://www.linkedin.com/in/andymindel/)** — co-founder and backup on every engagement, so the engagement is covered by two people, not one.
 
 ## Mike Mindel & Andy Mindel
 

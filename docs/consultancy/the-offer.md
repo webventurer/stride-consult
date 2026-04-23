@@ -116,7 +116,7 @@ Past the initial three weeks, support drops to what you actually need:
 
 *Stage 3 deliverable: you shipping apps on your own, with a known path back to Mike when something needs judgement.*
 
-**Continuity.** [Andy Mindel](https://www.linkedin.com/in/andymindel/) is Webventurer's co-founder and available as backup on every engagement — the retainer is covered by two people, not one.
+**Continuity.** [Andy Mindel](https://www.linkedin.com/in/andymindel/) is Webventurer's co-founder and available as backup on every engagement — the engagement is covered by two people, not one.
 
 **Commercial terms.** Your company pays for Mike's consultancy to train you up on the whole system. Stride itself is complimentary.
 
