@@ -11,7 +11,7 @@ Webventurer is a two-person consultancy run by Mike and Andy Mindel. Stride is o
 - **[Mike Mindel](https://www.linkedin.com/in/mikemindel/)** — builds apps, trains clients, runs the engagement day to day. Reach him at [mike@webventurer.com](mailto:mike@webventurer.com).
 - **[Andy Mindel](https://www.linkedin.com/in/andymindel/)** — co-founder and backup on every engagement, so the engagement is covered by two people, not one.
 
-## Mike Mindel & Andy Mindel
+## Mike and Andy
 
 Mike and his brother Andy founded [Wordtracker](https://www.wordtracker.com) in 1998 — the **world's first keyword research tool**, launched before search-engine optimisation was a recognised industry. They've been running it for 28 years, and along the way invented KEI (the Keyword Effectiveness Index), still one of the core concepts of keyword research today. The instincts behind Stride come from shipping and maintaining a real web product for that long — knowing which decisions pay back and which quietly eat years.
 
