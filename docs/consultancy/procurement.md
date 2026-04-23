@@ -23,7 +23,12 @@ And from Anthropic's [Claude Code data-usage page](https://code.claude.com/docs/
 
 > "Anthropic does not train generative models using code or prompts sent to Claude Code under commercial terms, unless the customer has chosen to provide their data to us for model improvement."
 
-**Recommendation.** For any corporate engagement, buy [Claude Team](https://claude.com/pricing) seats per user. Team is the lightest plan that puts training prohibition into **contract** rather than setting. <mark>Explicitly avoid Pro or Max seats for corporate work</mark> — those fall under consumer terms where each user toggles their own training opt-in, a governance gap no regulated employer should accept.
+**Recommendation.** Which plan you pick depends on how many people will use Stride:
+
+- **Solo user, personal account.** [Claude Max](https://claude.com/pricing) is the right path — no seat minimum, heavy-usage quota suited to sustained coding, and the training opt-out toggle sits under your own governance.
+- **Team inside a company.** Buy [Claude Team](https://claude.com/pricing) seats per user — the lightest plan that puts training prohibition into **contract** rather than setting, with a 5-seat minimum.
+
+<mark>For corporate deployments, explicitly avoid Pro or Max seats</mark> — those fall under consumer terms where each user toggles their own training opt-in, a governance gap no regulated employer should accept.
 
 Sources: [code.claude.com/docs/en/data-usage](https://code.claude.com/docs/en/data-usage) · [anthropic.com/legal/commercial-terms](https://www.anthropic.com/legal/commercial-terms) · [privacy.claude.com](https://privacy.claude.com/en/articles/7996868-is-my-data-used-for-model-training).
 
@@ -78,11 +83,12 @@ A four-part answer for the DPO — forward this section verbatim:
 
 | Tool | Cost |
 |:-----|-----:|
-| Claude Team — your chosen plan × 12 months | *varies* |
+| Claude Max (solo user) × 12 months | ~£80–£160/month |
+| Claude Team (group; 5-seat minimum) × 12 months | ~£16–£80/user/year |
 | Linear — your chosen plan × 12 months | £0 (Free) – ~£154/user/year |
 | Hosting (VPS, or £0 if already on corporate cloud) × 12 months | ~£30–£80/month |
 
-*Claude Team is commercial, minimum 5 seats, training prohibition in contract. Linear is £0 on Free (up to 2 teams and 250 active issues); Basic is ~£77/user/year. Webventurer does not host any apps — they run on your infrastructure from day one.*
+*Pick one Claude plan, not both. **Max** is a personal subscription for solo users — no seat minimum, usage-heavy, starts at ~£80/month. **Team** is commercial, minimum 5 seats, training prohibition in contract — floor ~£80/year on Team standard annual billing. Linear is £0 on Free (up to 2 teams and 250 active issues); Basic is ~£77/user/year. Webventurer does not host any apps — they run on your infrastructure from day one.*
 
 Year two (if you continue past week 3) is your tool subscriptions plus ad-hoc Stage 3 retainer days at £1k/day as needed.
 
@@ -92,7 +98,7 @@ Year two (if you continue past week 3) is your tool subscriptions plus ad-hoc St
 >
 > 1. Anthropic DPA signed by your DPO.
 > 2. Private GitHub org provisioned (or approved alternative: self-hosted Gitea, GitLab CE, Bitbucket, Azure DevOps).
-> 3. Claude Team seats procured under corporate billing — either a single seat for a solo user, or 5+ seats for a team.
+> 3. Claude subscription procured — a **Claude Max** subscription for a solo user, or **5+ Claude Team seats** under corporate billing for a group.
 
 ## Next steps
 
@@ -101,7 +107,7 @@ Four concrete paragraphs, grouped by the name of the offer.
 ### Step first
 
 - **(a) Discovery call — 60 minutes, free.** Walk through your actual data sources and map them to [Linear](/consultancy/glossary#linear) issues before any money is spent. Deliverable: a one-page scope you can take to your line manager. If you've already had the discovery call, treat this as the agreed scope summary.
-- **(b) Install and setup — £2k (2 days at £1k/day).** By the end of day two — with the async prerequisites in place (Mac, Claude Team seat, GitHub org) — one real internal app is running in your environment. Your `hello-world`, end to end, through Linear. Everything else layers on this foundation. Billed on completion.
+- **(b) Install and setup — £2k (2 days at £1k/day).** By the end of day two — with the async prerequisites in place (Mac, Claude Max or Team seat, GitHub org) — one real internal app is running in your environment. Your `hello-world`, end to end, through Linear. Everything else layers on this foundation. Billed on completion.
 
 ### Then Stride
 

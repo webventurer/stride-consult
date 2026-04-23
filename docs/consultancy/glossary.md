@@ -22,7 +22,7 @@ GitHub is a web-based home for source code. A **repo** (repository) is one proje
 
 Claude Code is Anthropic's terminal-based coding agent. It reads your whole repo, plans changes, writes code, runs tests, and commits through git — all from the command line. See [code.claude.com/docs/en/overview](https://code.claude.com/docs/en/overview) for the full capability list.
 
-**Plan-picker.** Pro/Max = personal or hobby use. **Team** = the default for corporate engagements. **Enterprise** = when compliance demands Zero Data Retention, SCIM, audit logs, or custom retention.
+**Plan-picker.** **Pro** = personal or hobby use. **Max** = solo professional use (heavier quota, no seat minimum). **Team** = corporate engagements (5-seat minimum, training prohibition in contract). **Enterprise** = when compliance demands Zero Data Retention, SCIM, audit logs, or custom retention.
 
 ## Stride
 

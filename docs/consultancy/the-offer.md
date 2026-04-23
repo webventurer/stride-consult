@@ -34,7 +34,7 @@ The first time it works end to end, the feeling lands: *"From a selfish professi
 
 Claude Code is Anthropic's terminal-based coding agent. It reads and writes code across a whole repo, runs your tests, uses [MCP](/consultancy/glossary#mcp) tools — Model Context Protocol, Anthropic's standard for letting external services like Linear talk to Claude — and executes shell commands under your permission. It is the engine that actually writes code.
 
-Your code is yours, and under a [Claude Team plan](https://claude.com/pricing) your prompts are never used to train Claude — full privacy brief on the [procurement page](/consultancy/procurement).
+Your code is yours. On a [Claude Team seat](https://claude.com/pricing), prompt-training prohibition is contractual; on a personal Max subscription, it's a toggle under your control. Full privacy brief on the [procurement page](/consultancy/procurement).
 
 ### Stride
 
@@ -89,7 +89,7 @@ The engagement runs as three concrete stages that match the name of the offer �
 
 Two days that install the tools, teach the primitives, and ship the first app end to end:
 
-- *Before day 1 (async, no charge).* Mac prerequisites done remotely or on site so day 1 starts productive — security hygiene (disk encryption, password manager, MFA on GitHub and Anthropic), corporate VPN, GitHub org access, Anthropic Claude Team seat, Linear workspace access.
+- *Before day 1 (async, no charge).* Mac prerequisites done remotely or on site so day 1 starts productive — security hygiene (disk encryption, password manager, MFA on GitHub and Anthropic), corporate VPN, GitHub org access, Anthropic Claude Max subscription or Team seat, Linear workspace access.
 - *Day 1 — install and primitives.* Homebrew, Node.js, Python, git, the Claude Code CLI. Starter repo cloned (app-starter or python-template). Stride installed and [MCP](/consultancy/glossary#mcp)-connected (`linear check` confirms connectivity). Git basics (branches, commits, pull requests), [atomic commits](/consultancy/glossary#the-atomic-commit), [kanban](/reference/kanban) in Linear.
 - *Day 2 — ship the `hello-world`.* Pick one Linear card from the discovery scope. `/linear:plan-work` drafts the card. `/linear:start` cuts the branch. `/commit` lands atomic commits. `/linear:finish` moves the card to Done. The dashboard is live in your environment.
 
@@ -124,7 +124,7 @@ Past the initial three weeks, support drops to what you actually need:
 
 *"Everything you build is yours. Your code lives in your [GitHub](/consultancy/glossary#github-and-a-github-repo) org. Your work history lives in your Linear. Your apps run on your infrastructure — Webventurer does not host anything. If you ever leave Webventurer, nothing is locked in; everything keeps working in-place."*
 
-<mark>**What your line manager needs to know:** the [procurement page](/consultancy/procurement) covers the three procurement items (DPA, private GitHub org, 5 Claude Team seats), the year-one total cost of ownership (~£6k ex VAT), and Anthropic's Commercial Terms — under which your code and prompts are never used to train Claude.</mark>
+<mark>**What your line manager needs to know:** the [procurement page](/consultancy/procurement) covers the three procurement items (DPA, private GitHub org, Claude Max subscription *or* 5+ Team seats), the year-one total cost of ownership (~£6k ex VAT), and Anthropic's Commercial Terms — under which your code and prompts are never used to train Claude.</mark>
 
 ---
 
