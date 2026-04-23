@@ -14,7 +14,7 @@ This is **not** for someone who copy-pastes a bit of code from a web search and 
 
 ## The overall goal
 
-Stride turns [vibe coders](/consultancy/glossary#vibe-coder) into [**agentic engineers**](/consultancy/glossary#agentic-engineer) who can trust what they are working on. See [Agentic engineering](/reference/agentic-engineering) for the full vibe-vs-agentic breakdown. The **workhorse** is [Claude Code](/consultancy/glossary#claude-code), Anthropic's terminal-based coding agent. The **shipping system** is [Stride](/consultancy/glossary#stride) — a thin wrapper around Claude Code that implements [kanban](/consultancy/glossary#kanban) on Linear.
+Stride turns [vibe coders](/consultancy/glossary#vibe-coder) into [**agentic engineers**](/consultancy/glossary#agentic-engineer) who can trust what they are working on. See [Agentic engineering](/reference/agentic-engineering) for the full vibe-vs-agentic breakdown. The **workhorse** is [Claude Code](/consultancy/glossary#claude-code), Anthropic's terminal-based coding agent. The **shipping system** is [Stride](/consultancy/glossary#stride) — a thin wrapper around Claude Code that implements [kanban](/reference/kanban) on Linear.
 
 **The payback is concrete.** *"Your organisation currently pays your data vendor £2–3k every time you want a custom report. Your fourth internal dashboard pays back the entire £5k engagement."* The maths holds for any organisation that's paying custom-report fees to vendors every month.
 
@@ -38,13 +38,13 @@ Your code is yours, and under a [Claude Team plan](https://claude.com/pricing) y
 
 ### Stride
 
-[Stride](/consultancy/glossary#stride) is a thin wrapper around Claude Code that implements [kanban](/consultancy/glossary#kanban) on [Linear](/consultancy/glossary#linear). Linear is a fast, modern issue tracker — Jira's sleeker cousin.
+[Stride](/consultancy/glossary#stride) is a thin wrapper around Claude Code that implements [kanban](/reference/kanban) on [Linear](/consultancy/glossary#linear). Linear is a fast, modern issue tracker — Jira's sleeker cousin.
 
 Here's how Stride sits on top. `/linear:plan-work` turns a plain-English request into a kanban card. `/linear:start` cuts a branch. Claude Code does the work. Atomic commits land via `/commit`. The pull request ships the story. You never touch a board manually — the workflow is what does the shuffling.
 
 ### Kanban and why it fits
 
-[Kanban](/consultancy/glossary#kanban) is continuous pull-based flow. Cards move through lanes: **Backburner → Backlog → Todo → Doing → In Review → Done**. No sprints. No ceremonies. Why kanban, specifically, for this work? One human orchestrating AI agents is not a classic team — agents have no commitment cost and work in parallel, so sprint boundaries become artificial lag. The real WIP caps sit at review bandwidth and merge coherence, both bottlenecked on the human. See the [Kanban process](/reference/kanban) reference page — it has embedded videos that walk through the flow.
+[Kanban](/reference/kanban) is continuous pull-based flow. Cards move through lanes: **Backburner → Backlog → Todo → Doing → In Review → Done**. No sprints. No ceremonies. Why kanban, specifically, for this work? One human orchestrating AI agents is not a classic team — agents have no commitment cost and work in parallel, so sprint boundaries become artificial lag. The real WIP caps sit at review bandwidth and merge coherence, both bottlenecked on the human. See the [Kanban process](/reference/kanban) reference page — it has embedded videos that walk through the flow.
 
 ### Why Linear?
 
@@ -90,7 +90,7 @@ The engagement runs as three concrete stages that match the name of the offer �
 Two days that install the tools, teach the primitives, and ship the first app end to end:
 
 - *Before day 1 (async, no charge).* Mac prerequisites done remotely or on site so day 1 starts productive — security hygiene (disk encryption, password manager, MFA on GitHub and Anthropic), corporate VPN, GitHub org access, Anthropic Claude Team seat, Linear workspace access.
-- *Day 1 — install and primitives.* Homebrew, Node.js, Python, git, the Claude Code CLI. Starter repo cloned (app-starter or python-template). Stride installed and MCP-connected (`linear check` confirms connectivity). Git basics (branches, commits, pull requests), [atomic commits](/consultancy/glossary#the-atomic-commit), [kanban](/consultancy/glossary#kanban) in Linear.
+- *Day 1 — install and primitives.* Homebrew, Node.js, Python, git, the Claude Code CLI. Starter repo cloned (app-starter or python-template). Stride installed and MCP-connected (`linear check` confirms connectivity). Git basics (branches, commits, pull requests), [atomic commits](/consultancy/glossary#the-atomic-commit), [kanban](/reference/kanban) in Linear.
 - *Day 2 — ship the `hello-world`.* Pick one Linear card from the discovery scope. `/linear:plan-work` drafts the card. `/linear:start` cuts the branch. `/commit` lands atomic commits. `/linear:finish` moves the card to Done. The dashboard is live in your environment.
 
 *Stage 1 deliverable: one real internal app running end to end by the close of day 2, in an environment InfoSec will approve.*

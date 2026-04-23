@@ -10,10 +10,6 @@ Reference definitions for the terms used throughout the consultancy pages.
 
 GitHub is a web-based home for source code. A **repo** (repository) is one project's worth of code, with every change tracked. An **organisation** (or "org") groups repos under a corporate identity. A **team** inside an org can be granted access to multiple repos at once — so a person joins the team, and they get access to every repo the team owns, without per-repo invites. This is how corporate IT usually wants things: one place to add or revoke a user, not dozens of per-repo grants.
 
-## Kanban
-
-Kanban is a flow-based work-tracking method. It started at Toyota in the 1940s–50s, where workers passed cards (*kanban*) between stations to signal "ready for next step". Software teams adopted it in the late 2000s. The essentials: cards move through lanes (Backburner → Backlog → Todo → Doing → In Review → Done); each lane has a WIP cap (no more than N cards at once); work is **pulled** when a slot opens, not pushed on a schedule. See the [Kanban process](/reference/kanban) reference page — it has embedded videos that walk through the flow.
-
 ## Linear
 
 [Linear](https://linear.app) is an issue tracker. It replaced Jira for most modern software teams because it is faster, is fewer clicks away from the answer, has a better API, and is **MCP-friendly** — meaning AI agents can read and write Linear through a standard protocol. *MCP* stands for **Model Context Protocol**, Anthropic's standard for tools talking to Claude.
@@ -26,7 +22,7 @@ Claude Code is Anthropic's terminal-based coding agent. It reads your whole repo
 
 ## Stride
 
-Stride is a thin wrapper around Claude Code that ties [kanban](#kanban) to [Linear](#linear). One slash command plans a card, one cuts a branch, one commits atomically, one merges and closes the card. The whole workflow lives in the terminal, backed by Linear as the visible surface.
+Stride is a thin wrapper around Claude Code that ties [kanban](/reference/kanban) to [Linear](#linear). One slash command plans a card, one cuts a branch, one commits atomically, one merges and closes the card. The whole workflow lives in the terminal, backed by Linear as the visible surface.
 
 ## The atomic commit
 

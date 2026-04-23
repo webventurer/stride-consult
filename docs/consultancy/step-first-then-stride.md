@@ -21,7 +21,7 @@ Not in the traditional sense — no late nights tracking down bugs through unfam
 
 There's a middle ground: you build the apps your team actually needs, yourself, knowing what the code does and trusting it won't quietly break next month. You stop waiting for vendors. You stop depending on IT for every small report. You ship with the quiet confidence of someone who can read their own work.
 
-And your work stays visible. Your teammates and line manager see the cards move through the lanes in real time as you ship. No shadow work, no black-box outputs — just a live picture of what's in flight, what's next, and what just landed. (Stride builds this on [kanban](/consultancy/glossary#kanban) and [Linear](/consultancy/glossary#linear) underneath.)
+And your work stays visible. Your teammates and line manager see the cards move through the lanes in real time as you ship. No shadow work, no black-box outputs — just a live picture of what's in flight, what's next, and what just landed. (Stride builds this on [kanban](/reference/kanban) and [Linear](/consultancy/glossary#linear) underneath.)
 
 **Step first**: the moment your first app ships through Linear — small, real, yours. **Then Stride**: the rhythm of shipping every week, the feeling of building into your team rather than around them, the confidence that comes from knowing every commit you made is one you can read.
 
