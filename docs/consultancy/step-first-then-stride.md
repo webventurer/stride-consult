@@ -9,9 +9,9 @@ That's a Kanban board. Every app you build moves through it as cards — idea, i
 
 ## Step first — then Stride
 
-Mike helps you take your first steps with building apps using Claude Code. He supports your progress until you hit your Stride.
-
 Mike Mindel (Webventurer Ltd) sets up your laptop with **[Claude Code](/consultancy/glossary#claude-code)** (the AI coding agent), installs **Stride** — the bridge that wires Claude Code to **[Linear](/consultancy/glossary#linear)** (your issue tracker) and your git workflow — then shows you how to use it. You build your own apps, keep them yours, ship without breaking things.
+
+Mike helps you take your first steps with building apps using Claude Code. He supports your progress until you hit your Stride.
 
 > "Stride has been extremely helpful so far. It's made me so efficient — my work is easier, and I can move quickly yet thoroughly."
 >
