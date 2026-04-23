@@ -51,9 +51,10 @@ A four-part answer for the DPO — forward this section verbatim:
 
 > **Procurement checklist:**
 >
-> 1. Anthropic DPA signed by your DPO.
-> 2. Private GitHub org provisioned (or approved alternative: self-hosted Gitea, GitLab CE, Bitbucket, Azure DevOps).
-> 3. Claude subscription procured — a **Claude Max** subscription for a solo user, or **5+ Claude Team seats** under corporate billing for a group.
+> 1. **MacBook Pro (or similar Mac)** — macOS is Stride's primary supported platform. Its Unix-based toolchain is a smoother ride than Windows or a Linux distro: the shell, git, Node, Python, and Claude Code's shell integrations all work with minimal plumbing.
+> 2. Anthropic DPA signed by your DPO.
+> 3. Private GitHub org provisioned (or approved alternative: self-hosted Gitea, GitLab CE, Bitbucket, Azure DevOps).
+> 4. Claude subscription procured — a **Claude Max** subscription for a solo user, or **5+ Claude Team seats** under corporate billing for a group.
 
 ## Next steps
 
