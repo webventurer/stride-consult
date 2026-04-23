@@ -24,7 +24,7 @@
 
   <!-- To do card -->
   <rect x="20" y="80" width="160" height="120" rx="8" fill="white" filter="url(#shadow)"/>
-  <text x="36" y="128" font-size="14" font-weight="500" fill="#1f2937">I am a task that</text>
+  <text x="36" y="128" font-size="14" font-weight="500" fill="#1f2937">I am a card that</text>
   <text x="36" y="148" font-size="14" font-weight="500" fill="#1f2937">needs to get done</text>
 
   <!-- Doing card (1) -->
