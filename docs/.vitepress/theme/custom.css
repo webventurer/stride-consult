@@ -21,6 +21,7 @@
 .VPHero .VPImage {
   max-width: 480px !important;
   max-height: 480px !important;
+  filter: drop-shadow(5px 5px 5px rgba(0, 0, 0, 0.15)) !important;
 }
 
 /* Fix mobile: reduce negative margins so image doesn't overlap title */
