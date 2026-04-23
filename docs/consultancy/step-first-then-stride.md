@@ -1,9 +1,13 @@
-# Consultancy package: Step first — then Stride
+# Consultancy package
+
+## Build apps on a digital board your team can see
 
 ![Kanban board](/kanban-board.svg)
-*Build your own apps, keep them yours, ship without breaking things.*
+*You direct the tempo. Every card flows from idea to shipped — live for your team to see.*
 
-## So what do you get exactly?
+That's a Kanban board. Every app you build moves through it as cards — idea, in progress, shipped. You see where each piece of work is, right now. Your teammates and line manager see it too, live, in the same place. No status meetings. No hidden work.
+
+## Step first — then Stride
 
 Mike helps you take your first steps with building apps using Claude Code. He supports your progress until you hit your Stride.
 
