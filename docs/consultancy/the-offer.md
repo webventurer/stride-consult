@@ -85,17 +85,17 @@ The engagement runs as three concrete stages that match the name of the offer �
 >
 > — **Matthew M, Aibuildrs**, 20 April 2026
 
-### Stage 1 — Install and setup (£2k, 2 days on-site or remote, £1k/day)
+### Stage 1 — Install and setup (2 days on-site or remote)
 
 Two days that install the tools, teach the primitives, and ship the first app end to end:
 
-- *Before day 1 (async, no charge).* Mac prerequisites done remotely or on site so day 1 starts productive — security hygiene (disk encryption, password manager, MFA on GitHub and Anthropic), corporate VPN, GitHub org access, Anthropic Claude Max subscription or Team seat, Linear workspace access.
+- *Before day 1.* Mac prerequisites done remotely or on site so day 1 starts productive — security hygiene (disk encryption, password manager, MFA on GitHub and Anthropic), corporate VPN, GitHub org access, Anthropic Claude Max subscription or Team seat, Linear workspace access.
 - *Day 1 — install and primitives.* Homebrew, Node.js, Python, git, the Claude Code CLI. Starter repo cloned (app-starter or python-template). Stride installed and [MCP](/consultancy/glossary#mcp)-connected (`linear check` confirms connectivity). Git basics (branches, commits, pull requests), [atomic commits](/consultancy/glossary#the-atomic-commit), [kanban](/reference/kanban) in Linear.
 - *Day 2 — ship the `hello-world`.* Pick one Linear card from the discovery scope. `/linear:plan-work` drafts the card. `/linear:start` cuts the branch. `/commit` lands atomic commits. `/linear:finish` moves the card to Done. The dashboard is live in your environment.
 
 *Stage 1 deliverable: one real internal app running end to end by the close of day 2, in an environment InfoSec will approve.*
 
-### Stage 2 — First three weeks of weekly support (£3k, 1 day per week at £1k/day)
+### Stage 2 — First three weeks of weekly support (1 day per week, 3 weeks)
 
 The workflow only becomes real when you are building alone. Mike books one day each week for the next three weeks to catch anti-patterns early and reinforce habits while they are still forming:
 
@@ -105,9 +105,9 @@ The workflow only becomes real when you are building alone. Mike books one day e
 
 *Stage 2 deliverable: three apps shipped by end of week 3; you running the workflow alone without supervision.*
 
-Stages 1 and 2 together make up the **£5k initial engagement** (£2k + £3k). After week 3 you either stop there or move into Stage 3.
+Stages 1 and 2 together make up the initial engagement. After week 3 you either stop there or move into Stage 3. (Full pricing lives on the [procurement page](/consultancy/procurement#pricing-what-it-actually-costs).)
 
-### Stage 3 — Ad-hoc support (£1k/day when needed, optional; Stride itself complimentary)
+### Stage 3 — Ad-hoc support (when needed, optional; Stride itself complimentary)
 
 Past the initial three weeks, support drops to what you actually need:
 
