@@ -28,7 +28,7 @@ Stride turns [vibe coders](/consultancy/glossary#vibe-coder) into [**agentic eng
 
 ## The moment it clicks
 
-You type a sentence in plain English — *"show me sales by region, last quarter"* — and Claude Code turns it into a Linear card, cuts a branch, writes the code, commits atomically, opens a pull request. You watch a dashboard appear. You own it.
+You run `/linear:plan-work` with a plain-English brief — *"/linear:plan-work show me sales by region, last quarter"* — and Claude Code turns it into a Linear card, cuts a branch, writes the code, commits atomically, opens a pull request. You watch a dashboard appear. You own it.
 
 > The unit of work is a well-scoped card you put into Linear — your thoughts.
 
