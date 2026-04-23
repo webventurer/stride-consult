@@ -50,7 +50,7 @@ Here's how Stride sits on top. `/linear:plan-work` turns a plain-English request
 
 ### Kanban and why it fits
 
-[Kanban](/reference/kanban) is continuous pull-based flow. Cards move through lanes: **Backburner → Backlog → Todo → Doing → In Review → Done**. No sprints. No ceremonies. Why kanban, specifically, for this work? One human orchestrating AI agents is not a classic team — agents have no commitment cost and work in parallel, so sprint boundaries become artificial lag. The real WIP caps sit at review bandwidth and merge coherence, both bottlenecked on the human. See the [Kanban process](/reference/kanban) reference page — it has embedded videos that walk through the flow.
+[Kanban](/reference/kanban) is continuous pull-based flow. Cards move through lanes: **Backburner → Backlog → Todo → Doing → In Review → Done**. No sprints. No ceremonies. Why kanban, specifically, for this work? One human orchestrating AI agents is not a classic team — agents have no commitment cost and work in parallel, so sprint boundaries become artificial lag. The real Work In Progress ("WIP") caps sit at review bandwidth and merge coherence, both bottlenecked on the human. See the [Kanban process](/reference/kanban) reference page — it has embedded videos that walk through the flow.
 
 ### Why Linear?
 
