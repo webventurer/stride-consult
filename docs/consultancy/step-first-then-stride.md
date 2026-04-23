@@ -28,7 +28,8 @@ And your work stays visible. Your teammates and line manager see the cards move 
 ## Read on
 
 - **[The offer →](/consultancy/the-offer)** — the full proposition, the stack, the three engagement stages. *Written for the person who will actually use Stride.*
-- **[Procurement, privacy, and pricing →](/consultancy/procurement)** — what Anthropic does and doesn't do with your code, where the source lives, GDPR and leaver process, total cost. *Share this with your line manager, IT, InfoSec, and DPO.*
+- **[Pricing →](/consultancy/pricing)** — Anthropic and Linear subscriptions, hosting, and year-1 total cost of ownership.
+- **[Procurement and privacy →](/consultancy/procurement)** — what Anthropic does and doesn't do with your code, where the source lives, GDPR and leaver process. *Share this with your line manager, IT, InfoSec, and DPO.*
 - **[About →](/consultancy/about)** — Mike, Andy, and Webventurer.
 - **[Glossary →](/consultancy/glossary)** — kanban, Linear, Claude Code, atomic commits, and the other terms used across these pages.
 - **[Testimonials →](/consultancy/testimonials)** — what people using Stride are saying.
