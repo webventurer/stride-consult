@@ -12,6 +12,12 @@
   --vp-code-color: #ffffffde;
 }
 
+/* Drop the default h2 section divider — the top margin is enough separation */
+.vp-doc h2 {
+  border-top: 0;
+  padding-top: 0;
+}
+
 .VPHero .VPImage {
   max-width: 480px !important;
   max-height: 480px !important;
