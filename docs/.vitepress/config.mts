@@ -7,6 +7,9 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'Consultancy', link: '/consultancy/step-first-then-stride' },
+      { text: 'The offer', link: '/consultancy/the-offer' },
+      { text: 'Pricing', link: '/consultancy/pricing' },
+      { text: 'Testimonials', link: '/consultancy/testimonials' },
     ],
     sidebar: [
       {
