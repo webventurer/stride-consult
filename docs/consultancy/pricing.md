@@ -6,6 +6,15 @@ outline: [2, 3]
 
 *Anthropic subscriptions, Linear subscriptions, hosting, and consultancy days — what each costs, indicatively in GBP.*
 
+## Consultancy
+
+| Stage | What | Cost |
+|:------|:-----|-----:|
+| Stage 1 — Install and setup | 2 days on-site or remote | £2,000 |
+| Stage 2 — First three weeks of support | 1 day per week × 3 weeks | £3,000 |
+| **Initial engagement** (one-off) | Stages 1 + 2 | **£5,000** |
+| Stage 3 — Ad-hoc support | Optional, when needed | £1k/day |
+
 ## Claude Code plans
 
 | Plan | USD list | Indicative GBP ex. VAT | Terms |
