@@ -12,7 +12,7 @@ GitHub is a web-based home for source code. A **repo** (repository) is one proje
 
 ## Kanban
 
-Kanban is a flow-based work-tracking method. It started at Toyota in the 1940s–50s, where workers passed cards (*kanban*) between stations to signal "ready for next step". Software teams adopted it in the late 2000s. The essentials: cards move through lanes (Backburner → Backlog → Todo → Doing → In Review → Done); each lane has a WIP cap (no more than N cards at once); work is **pulled** when a slot opens, not pushed on a schedule. See the [stride kanban reference page](https://webventurer.github.io/stride-consult/reference/kanban.html) — it has embedded videos that walk through the flow.
+Kanban is a flow-based work-tracking method. It started at Toyota in the 1940s–50s, where workers passed cards (*kanban*) between stations to signal "ready for next step". Software teams adopted it in the late 2000s. The essentials: cards move through lanes (Backburner → Backlog → Todo → Doing → In Review → Done); each lane has a WIP cap (no more than N cards at once); work is **pulled** when a slot opens, not pushed on a schedule. See the [Kanban process](/reference/kanban) reference page — it has embedded videos that walk through the flow.
 
 ## Linear
 
@@ -26,13 +26,13 @@ Claude Code is Anthropic's terminal-based coding agent. It reads your whole repo
 
 ## Stride
 
-Stride is a thin wrapper around Claude Code that ties [kanban](#kanban) to [Linear](#linear). One slash command plans a card, one cuts a branch, one commits atomically, one merges and closes the card. The whole workflow lives in the terminal, backed by Linear as the visible surface. See [webventurer.github.io/stride-consult/getting-started.html](https://webventurer.github.io/stride-consult/getting-started.html).
+Stride is a thin wrapper around Claude Code that ties [kanban](#kanban) to [Linear](#linear). One slash command plans a card, one cuts a branch, one commits atomically, one merges and closes the card. The whole workflow lives in the terminal, backed by Linear as the visible surface.
 
 ## The atomic commit
 
 An **atomic commit** is a git commit with exactly one purpose — one complete idea, self-contained, and reversible without breaking anything else. It's not about size: a rename across 30 files is atomic (the purpose is *"rename"*); a single file mixing a bug fix with an unrelated refactor is not.
 
-This rule matters more with AI-generated code than human-written. AI assistants often group files by the wrong criteria — changed in the same session, sharing a prefix, *"while I was in there"*. Stride's [`/commit`](https://webventurer.github.io/stride-consult/skills/commit) skill catches these mistakes through a four-pass methodology that separates content decisions from formatting standards — so every commit is one a reviewer can judge, and a bad change can be reverted cleanly.
+This rule matters more with AI-generated code than human-written. AI assistants often group files by the wrong criteria — changed in the same session, sharing a prefix, *"while I was in there"*. Stride's `/commit` skill catches these mistakes through a four-pass methodology that separates content decisions from formatting standards — so every commit is one a reviewer can judge, and a bad change can be reverted cleanly.
 
 ## Vibe coder
 

@@ -14,7 +14,7 @@ This is **not** for someone who copy-pastes a bit of code from a web search and 
 
 ## The overall goal
 
-Stride turns [vibe coders](/consultancy/glossary#vibe-coder) into [**agentic engineers**](/consultancy/glossary#agentic-engineer) who can trust what they are working on. See the [full premise on the stride site](https://webventurer.github.io/stride-consult/getting-started.html). The **workhorse** is [Claude Code](/consultancy/glossary#claude-code), Anthropic's terminal-based coding agent. The **shipping system** is [Stride](/consultancy/glossary#stride) — a thin wrapper around Claude Code that implements [kanban](/consultancy/glossary#kanban) on Linear.
+Stride turns [vibe coders](/consultancy/glossary#vibe-coder) into [**agentic engineers**](/consultancy/glossary#agentic-engineer) who can trust what they are working on. See [Agentic engineering](/reference/agentic-engineering) for the full vibe-vs-agentic breakdown. The **workhorse** is [Claude Code](/consultancy/glossary#claude-code), Anthropic's terminal-based coding agent. The **shipping system** is [Stride](/consultancy/glossary#stride) — a thin wrapper around Claude Code that implements [kanban](/consultancy/glossary#kanban) on Linear.
 
 **The payback is concrete.** *"Your organisation currently pays your data vendor £2–3k every time you want a custom report. Your fourth internal dashboard pays back the entire £5k engagement."* The maths holds for any organisation that's paying custom-report fees to vendors every month.
 
@@ -44,7 +44,7 @@ Here's how Stride sits on top. `/linear:plan-work` turns a plain-English request
 
 ### Kanban and why it fits
 
-[Kanban](/consultancy/glossary#kanban) is continuous pull-based flow. Cards move through lanes: **Backburner → Backlog → Todo → Doing → In Review → Done**. No sprints. No ceremonies. Why kanban, specifically, for this work? One human orchestrating AI agents is not a classic team — agents have no commitment cost and work in parallel, so sprint boundaries become artificial lag. The real WIP caps sit at review bandwidth and merge coherence, both bottlenecked on the human. See the [kanban reference page](https://webventurer.github.io/stride-consult/reference/kanban.html) — it has embedded videos that walk through the flow.
+[Kanban](/consultancy/glossary#kanban) is continuous pull-based flow. Cards move through lanes: **Backburner → Backlog → Todo → Doing → In Review → Done**. No sprints. No ceremonies. Why kanban, specifically, for this work? One human orchestrating AI agents is not a classic team — agents have no commitment cost and work in parallel, so sprint boundaries become artificial lag. The real WIP caps sit at review bandwidth and merge coherence, both bottlenecked on the human. See the [Kanban process](/reference/kanban) reference page — it has embedded videos that walk through the flow.
 
 ### Why Linear?
 

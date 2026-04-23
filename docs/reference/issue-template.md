@@ -1,6 +1,6 @@
 # Issue template
 
-Every Linear issue created by [`/linear:plan-work`](https://webventurer.github.io/stride/skills/linear#linear-plan-work) follows the same seven-section structure. Each heading answers a natural question so the reader can scan quickly and know exactly what the issue is about.
+Every Linear issue created by `/linear:plan-work` follows the same seven-section structure. Each heading answers a natural question so the reader can scan quickly and know exactly what the issue is about.
 
 ## Sections
 
