@@ -1,0 +1,15 @@
+{
+  "name": "stride-consult",
+  "version": "0.1.0",
+  "description": "Consultancy package — step first, then stride.",
+  "private": true,
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build:docs": "vitepress build docs",
+    "preview:docs": "vitepress preview docs"
+  },
+  "devDependencies": {
+    "vitepress": "^1.6.4"
+  },
+  "license": "MIT"
+}
