@@ -27,10 +27,16 @@
   <text x="36" y="128" font-size="14" font-weight="500" fill="#1f2937">I am a task that</text>
   <text x="36" y="148" font-size="14" font-weight="500" fill="#1f2937">needs to get done</text>
 
-  <!-- Doing card -->
+  <!-- Doing card (1) -->
   <rect x="220" y="80" width="160" height="120" rx="8" fill="white" filter="url(#shadow)" stroke="#f59e0b" stroke-width="1.5"/>
   <text x="236" y="128" font-size="14" font-weight="500" fill="#1f2937">I am being worked</text>
   <text x="236" y="148" font-size="14" font-weight="500" fill="#1f2937">on right now</text>
+
+  <!-- Doing card (2) -->
+  <rect x="220" y="212" width="160" height="128" rx="8" fill="white" filter="url(#shadow)" stroke="#f59e0b" stroke-width="1.5"/>
+  <text x="236" y="256" font-size="14" font-weight="500" fill="#1f2937">I am another card</text>
+  <text x="236" y="276" font-size="14" font-weight="500" fill="#1f2937">being worked on</text>
+  <text x="236" y="296" font-size="14" font-weight="500" fill="#1f2937">right now</text>
 
   <!-- Waiting card -->
   <rect x="420" y="80" width="160" height="120" rx="8" fill="white" filter="url(#shadow)" stroke="#8b5cf6" stroke-width="1.5"/>
