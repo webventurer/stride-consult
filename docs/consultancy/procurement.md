@@ -4,7 +4,7 @@ outline: [2, 3]
 
 # Procurement and privacy
 
-*Written for your line manager, IT, InfoSec, and DPO. Verified facts, cited, with procurement items at the end. (Full cost breakdown lives on the [Pricing page](/consultancy/pricing).)*
+*Written for your line manager, IT, InfoSec, and DPO. Verified facts, cited, with procurement items at the end. (See [How much?](/consultancy/how-much) for the full cost breakdown.)*
 
 ## Privacy — what Anthropic may and may not do with your code
 

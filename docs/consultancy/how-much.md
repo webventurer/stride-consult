@@ -2,7 +2,7 @@
 outline: [2, 3]
 ---
 
-# Pricing
+# How much?
 
 *Anthropic subscriptions, Linear subscriptions, hosting, and consultancy days — what each costs, indicatively in GBP.*
 

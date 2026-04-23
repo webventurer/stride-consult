@@ -8,7 +8,7 @@ export default defineConfig({
     nav: [
       { text: 'Consultancy', link: '/consultancy/step-first-then-stride' },
       { text: 'The offer', link: '/consultancy/the-offer' },
-      { text: 'Pricing', link: '/consultancy/pricing' },
+      { text: 'How much?', link: '/consultancy/how-much' },
       { text: 'Testimonials', link: '/consultancy/testimonials' },
     ],
     sidebar: [
@@ -17,7 +17,7 @@ export default defineConfig({
         items: [
           { text: 'Step first — then Stride', link: '/consultancy/step-first-then-stride' },
           { text: 'The offer', link: '/consultancy/the-offer' },
-          { text: 'Pricing', link: '/consultancy/pricing' },
+          { text: 'How much?', link: '/consultancy/how-much' },
           { text: 'Procurement and privacy', link: '/consultancy/procurement' },
           { text: 'About', link: '/consultancy/about' },
           { text: 'Glossary', link: '/consultancy/glossary' },

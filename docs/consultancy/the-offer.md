@@ -111,7 +111,7 @@ The workflow only becomes real when you are building alone. Mike books one day e
 
 *Stage 2 deliverable: three apps shipped by end of week 3; you running the workflow alone without supervision.*
 
-Stages 1 and 2 together make up the initial engagement. After week 3 you either stop there or move into Stage 3. (Full pricing lives on the [Pricing page](/consultancy/pricing).)
+Stages 1 and 2 together make up the initial engagement. After week 3 you either stop there or move into Stage 3. (See [How much?](/consultancy/how-much) for the full cost breakdown.)
 
 ### Stage 3 — Ad-hoc support (when needed, optional; Stride itself complimentary)
 
@@ -130,10 +130,10 @@ Past the initial three weeks, support drops to what you actually need:
 
 *"Everything you build is yours. Your code lives in your [GitHub](/consultancy/glossary#github-and-a-github-repo) org. Your work history lives in your Linear. Your apps run on your infrastructure — Webventurer does not host anything. If you ever leave Webventurer, nothing is locked in; everything keeps working in-place."*
 
-<mark>**What your line manager needs to know:** the [procurement page](/consultancy/procurement) covers the three procurement items (DPA, private GitHub org, Claude Max subscription *or* 5+ Team seats) plus Anthropic's Commercial Terms — under which your code and prompts are never used to train Claude. The [pricing page](/consultancy/pricing) has the year-one total cost of ownership (~£6k ex VAT).</mark>
+<mark>**What your line manager needs to know:** the [procurement page](/consultancy/procurement) covers the three procurement items (DPA, private GitHub org, Claude Max subscription *or* 5+ Team seats) plus Anthropic's Commercial Terms — under which your code and prompts are never used to train Claude. See [How much?](/consultancy/how-much) for the year-one total cost of ownership (~£6k ex VAT).</mark>
 
 ---
 
-**Next:** [Pricing →](/consultancy/pricing) · [Procurement and privacy →](/consultancy/procurement) *(for your line manager, IT, InfoSec, and DPO)*
+**Next:** [How much? →](/consultancy/how-much) · [Procurement and privacy →](/consultancy/procurement) *(for your line manager, IT, InfoSec, and DPO)*
 
 Questions? Email [mike@webventurer.com](mailto:mike@webventurer.com).
