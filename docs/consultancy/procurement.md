@@ -55,6 +55,16 @@ A four-part answer for the DPO — forward this section verbatim:
 
 *Anthropic prices in USD at [claude.com/pricing](https://claude.com/pricing). GBP is converted at £1 = $1.25 and excludes UK VAT at 20%. UK customers pay the USD amount converted at Anthropic's card-processor FX rate plus VAT.*
 
+**Linear** — your issue tracker — bills per user per month:
+
+| Plan | USD list | Indicative GBP ex. VAT | Terms |
+|:--|:--|:--|:--|
+| Free | $0 | £0 | Unlimited members; up to 2 teams and 250 active issues |
+| Basic | $8–$10 / user / month | ~£6–£8 | Everything in Free + 5 teams, unlimited issues, file uploads |
+| Business | $12–$16 / user / month | ~£10–£13 | Everything in Basic + unlimited teams, private teams, guest accounts, advanced integrations |
+
+*Linear prices in USD at [linear.app/pricing](https://linear.app/pricing); same £1 = $1.25 conversion and UK VAT caveat as above apply. The Free plan covers most Stride starting points — upgrade when you outgrow 2 teams or 250 active issues.*
+
 **Year-one total cost of ownership, ex. VAT:**
 
 | Item | Cost |
@@ -62,9 +72,19 @@ A four-part answer for the DPO — forward this section verbatim:
 | Stage 1 — Install and setup (2 days × £1k/day) | £2,000 |
 | Stage 2 — First three weeks of weekly support (3 days × £1k/day) | £3,000 |
 | **Initial engagement** (one-off) | **£5,000** |
-| Claude Team — your chosen plan × 12 months | *varies* |
+| Stage 3 — Ad-hoc support (optional; £1k/day when needed) | *varies* |
 
-Plus your own hosting — Webventurer does not host any apps; they run on your infrastructure from day one (typically £30–£80/month on a VPS or existing corporate cloud). Year two (if you continue past week 3) is the Team subscription plus ad-hoc Stage 3 retainer days at £1k/day as needed.
+**Tools:**
+
+| Tool | Cost |
+|:-----|-----:|
+| Claude Team — your chosen plan × 12 months | *varies* |
+| Linear — your chosen plan × 12 months | £0 (Free) – ~£154/user/year |
+| Hosting (VPS, or £0 if already on corporate cloud) × 12 months | ~£30–£80/month |
+
+*Claude Team is commercial, minimum 5 seats, training prohibition in contract. Linear is £0 on Free (up to 2 teams and 250 active issues); Basic is ~£77/user/year. Webventurer does not host any apps — they run on your infrastructure from day one.*
+
+Year two (if you continue past week 3) is your tool subscriptions plus ad-hoc Stage 3 retainer days at £1k/day as needed.
 
 ## Procurement checklist
 
