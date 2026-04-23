@@ -7,7 +7,7 @@ export default defineConfig({
   themeConfig: {
     nav: [
       { text: 'Consultancy', link: '/consultancy/step-first-then-stride' },
-      { text: 'The offer', link: '/consultancy/the-offer' },
+      { text: 'What is it?', link: '/consultancy/what-is-it' },
       { text: 'How much?', link: '/consultancy/how-much' },
       { text: 'Testimonials', link: '/consultancy/testimonials' },
     ],
@@ -16,7 +16,7 @@ export default defineConfig({
         text: 'Consultancy',
         items: [
           { text: 'Step first — then Stride', link: '/consultancy/step-first-then-stride' },
-          { text: 'The offer', link: '/consultancy/the-offer' },
+          { text: 'What is it?', link: '/consultancy/what-is-it' },
           { text: 'How much?', link: '/consultancy/how-much' },
           { text: 'Procurement and privacy', link: '/consultancy/procurement' },
           { text: 'About', link: '/consultancy/about' },

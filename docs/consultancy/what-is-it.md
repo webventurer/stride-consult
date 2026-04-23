@@ -2,7 +2,7 @@
 outline: [2, 3]
 ---
 
-# The offer
+# What is it?
 
 *Written for the person who will actually use Stride.*
 

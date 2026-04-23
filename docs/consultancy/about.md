@@ -23,4 +23,4 @@ Reach him at [mike@webventurer.com](mailto:mike@webventurer.com) or connect on [
 
 ---
 
-Questions? Email [mike@webventurer.com](mailto:mike@webventurer.com) — or read [the offer](/consultancy/the-offer) for the full proposition.
+Questions? Email [mike@webventurer.com](mailto:mike@webventurer.com) — or read [What is it?](/consultancy/what-is-it) for the full proposition.
