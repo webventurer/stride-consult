@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 360" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif">
+  <defs>
+    <filter id="shadow" x="-4%" y="-4%" width="108%" height="116%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-opacity="0.1"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="600" height="360" rx="12" fill="#f8f9fa"/>
+
+  <!-- Column headers with status dots -->
+  <circle cx="28" cy="40" r="5" fill="none" stroke="#9ca3af" stroke-width="1.5"/>
+  <text x="42" y="45" font-size="14" font-weight="600" fill="#6b7280">To do</text>
+
+  <circle cx="228" cy="40" r="5" fill="#f59e0b" stroke="#f59e0b" stroke-width="1.5"/>
+  <text x="242" y="45" font-size="14" font-weight="600" fill="#6b7280">Doing</text>
+
+  <circle cx="428" cy="40" r="5" fill="#8b5cf6" stroke="#8b5cf6" stroke-width="1.5"/>
+  <text x="442" y="45" font-size="14" font-weight="600" fill="#6b7280">Waiting</text>
+
+  <!-- Column dividers -->
+  <line x1="200" y1="20" x2="200" y2="340" stroke="#e5e7eb" stroke-width="1"/>
+  <line x1="400" y1="20" x2="400" y2="340" stroke="#e5e7eb" stroke-width="1"/>
+
+  <!-- To do card -->
+  <rect x="20" y="80" width="160" height="120" rx="8" fill="white" filter="url(#shadow)"/>
+  <text x="36" y="128" font-size="14" font-weight="500" fill="#1f2937">I am a task that</text>
+  <text x="36" y="148" font-size="14" font-weight="500" fill="#1f2937">needs to get done</text>
+
+  <!-- Doing card -->
+  <rect x="220" y="80" width="160" height="120" rx="8" fill="white" filter="url(#shadow)" stroke="#f59e0b" stroke-width="1.5"/>
+  <text x="236" y="128" font-size="14" font-weight="500" fill="#1f2937">I am being worked</text>
+  <text x="236" y="148" font-size="14" font-weight="500" fill="#1f2937">on right now</text>
+
+  <!-- Waiting card -->
+  <rect x="420" y="80" width="160" height="120" rx="8" fill="white" filter="url(#shadow)" stroke="#8b5cf6" stroke-width="1.5"/>
+  <text x="436" y="128" font-size="14" font-weight="500" fill="#1f2937">I am waiting on</text>
+  <text x="436" y="148" font-size="14" font-weight="500" fill="#1f2937">someone else</text>
+</svg>

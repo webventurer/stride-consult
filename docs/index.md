@@ -6,7 +6,7 @@ hero:
   text: "AI built your app... <br>now what?"
   tagline: "It works — mostly. But something feels a bit off. Every change feels risky, and when something breaks, you can't see what happened. Stride is how non-developers ship apps they can actually read, fix, and trust — live on a digital board your team can see."
   image:
-    src: /kanban-hero-home.png
+    src: /kanban-hero-home.svg
     alt: stride consult — three Kanban cards saying "I am a task that needs to get done", "I am being worked on right now", "I am waiting on someone else"
   actions:
     - theme: brand
