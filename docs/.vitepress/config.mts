@@ -25,6 +25,12 @@ export default defineConfig({
         ],
       },
       {
+        text: 'Forms',
+        items: [
+          { text: 'SRM form', link: '/consultancy/forms/srm-form' },
+        ],
+      },
+      {
         text: 'Reference',
         items: [
           { text: 'Agentic engineering', link: '/reference/agentic-engineering' },
